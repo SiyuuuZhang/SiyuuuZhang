@@ -4,11 +4,14 @@
 
 - 🎓 &nbsp; Studying Data Science at Jilin University.
 - 🤔 &nbsp; Exploring cutting-edge developments in Computer Vision and Computer Graphics.
+- 🌍 &nbsp; Chinese (Native) | English (CET-6) | Basic Japanese.
+- 🎨 &nbsp; Digital Art Creation | Photography | Board Games.
 
 ## Skills
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,pytorch,tensorflow,matlab"/>
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,r,pytorch,tensorflow,matlab"/>
   </a>
 </p>
 
@@ -20,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,pr,ae,au,blender"/>
+    <img src="https://skillicons.dev/icons?i=ps,pr,ae,au"/>
   </a>
 </p>
 
