@@ -5,7 +5,7 @@
 - 🎓 &nbsp; Studying Data Science at Jilin University.
 - 🤔 &nbsp; Exploring cutting-edge developments in Computer Vision and Computer Graphics.
 - 🌍 &nbsp; Chinese (Native) | English (CET-6) | Basic Japanese.
-- 🎨 &nbsp; Digital Art Creation | Photography | Board Games.
+- 🎨 &nbsp; Digital Art Creation | Photography | Travel.
 
 ## Skills
 
